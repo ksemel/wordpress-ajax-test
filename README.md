@@ -1,7 +1,7 @@
 wordpress-ajax-test
 ===================
 
-A super basic test to see if Ajax is working.  Creates a form in your wp_footer that returns a message if the ajax call.
+A super basic test to see if Ajax is working.  Creates a form in your wp_footer that returns a message if the ajax call works.
 
 Installation
 ------------
