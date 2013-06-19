@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP_AjaxTest
- * Description: A super basic test to see if Ajax is working.  Creates a form in your wp_footer that returns a message if the ajax call.
+ * Description: A super basic test to see if Ajax is working.  Creates a form in your wp_footer that returns a message if the ajax call works.
  * Version: 0.1
  * Author: Katherine Semel
 */
